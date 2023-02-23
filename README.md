@@ -3,14 +3,17 @@
 <h1 align="center">Hi 👋, I'm Akshay Pandit</h1>
 <h3 align="center">A passionate ANDROID developer </h3>
 
+
+</br>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitgiri15434&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgiri15434" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitgiri15434&label=Profile%20views&color=0e75b6&style=flat" alt="panditakshay402" /> </p>
 
 - 📫 How to reach me *Panditakshay402@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"></br>
+<p align="left">
 <a href="https://linkedin.com/in/akshay-pandit-94864b180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Panditakshay402" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/aaditya goshwami (sumit kumar giri)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya goshwami (sumit kumar giri)" height="30" width="40" /></a>
 <a href="https://instagram.com/goshwamiaaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goshwamiaaditya" height="30" width="40" /></a>
