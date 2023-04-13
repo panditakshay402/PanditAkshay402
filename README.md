@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Akshay Pandit</h1>
-<h3 align="center">A passionate ANDROID developer </h3>
+<h3 align="center">A passionate App Developer </h3>
 
 
 </br>
