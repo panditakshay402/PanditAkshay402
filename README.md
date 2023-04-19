@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay pandit</h1>
 <h3 align="center">A passionate Application developer from India</h3>
-<p align="right" alt="code" width=400" src="![image](https://user-images.githubusercontent.com/51216244/233036609-da26c0c7-fdc5-41e3-adc8-c14d1878633d.png)
+<p align="right" alt="code" width=400" src="https://imgs.search.brave.com/WrF-caTLOMFYMenJwMMykuwgO3y0NZgtEk2Bx1I2-qw/rs:fit:500:211:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvelhtYk9h/VHBiWTZtQS9naXBo/eS5naWY.gif
 ">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditakshay402&label=Profile%20views&color=0e75b6&style=flat" alt="panditakshay402" /> </p>
 
