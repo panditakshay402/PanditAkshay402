@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akshay pandit</h1>
 <h3 align="center">A passionate Application developer from India</h3>
-<p align="right" alt="code" width=400" src="https://imgs.search.brave.com/WrF-caTLOMFYMenJwMMykuwgO3y0NZgtEk2Bx1I2-qw/rs:fit:500:211:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvelhtYk9h/VHBiWTZtQS9naXBo/eS5naWY.gif
-">
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditakshay402&label=Profile%20views&color=0e75b6&style=flat" alt="panditakshay402" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panditakshay402" alt="panditakshay402" /></a> </p>
 
+<img align="right" src="https://imgs.search.brave.com/6j9iJ8miOxm8QCvzj1XG_SXySZbplLXWS2k0fwyq2-I/rs:fit:480:360:1/g:ce/aHR0cHM6Ly9pLmdp/ZmVyLmNvbS9lbWJl/ZGRlZC9kb3dubG9h/ZC82dFhNLmdpZg.gif">
+
+<background-color="#36454F">
+
 - 🔭 I’m currently working on [ecommerce](https://github.com/panditakshay402/ecommerce.git)
 
-- 🌱 I’m currently learning **React.js , Node.js , Ai**
+- 🌱 I’m currently learning **React.js , Node.js .......**
 
 - 👨‍💻 All of my projects are available at [https://github.com/panditakshay402](https://github.com/panditakshay402)
 
