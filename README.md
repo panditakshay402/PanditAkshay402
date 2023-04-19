@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay pandit</h1>
 <h3 align="center">A passionate Application developer from India</h3>
-<p align="right" alt="code" width=400" src="https://media4.giphy.com/media/rQYG5lehfVrdFdBIf2/giphy.gif?cid=ecf05e47mz5x4xxuvisqnndeswlqtrikrcrqxx9u4h0y21h1&rid=giphy.gif&ct=g">
+<p align="right" alt="code" width=400" src="[https://media4.giphy.com/media/rQYG5lehfVrdFdBIf2/giphy.gif?cid=ecf05e47mz5x4xxuvisqnndeswlqtrikrcrqxx9u4h0y21h1&rid=giphy.gif&ct=g](https://imgs.search.brave.com/h7iLv70nFpTr04Gs3R02j3DKtDlZKA_ntak9kcBxw9k/rs:fit:356:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5S/UnN4UHpIb2V6dFdZ/aTM5T3FtSDlBQUFB/QSZwaWQ9QXBp)">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditakshay402&label=Profile%20views&color=0e75b6&style=flat" alt="panditakshay402" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panditakshay402" alt="panditakshay402" /></a> </p>
