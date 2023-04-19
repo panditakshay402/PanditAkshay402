@@ -7,7 +7,7 @@
 
 <img align="right" src="https://imgs.search.brave.com/6j9iJ8miOxm8QCvzj1XG_SXySZbplLXWS2k0fwyq2-I/rs:fit:480:360:1/g:ce/aHR0cHM6Ly9pLmdp/ZmVyLmNvbS9lbWJl/ZGRlZC9kb3dubG9h/ZC82dFhNLmdpZg.gif">
 
-<background-color="#36454F">
+
 
 - 🔭 I’m currently working on [ecommerce](https://github.com/panditakshay402/ecommerce.git)
 
