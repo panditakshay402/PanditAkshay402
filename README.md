@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [ecommerce](https://github.com/panditakshay402/ecommerce.git)
 
-- 🌱 I’m currently learning **React.js , Node.js .......**
+- 🌱 I’m currently learning **Dart .......**
 
 - 👨‍💻 All of my projects are available at [https://github.com/panditakshay402](https://github.com/panditakshay402)
 
