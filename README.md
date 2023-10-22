@@ -9,17 +9,17 @@
 
 
 
-- 🔭 I’m currently working on [ecommerce](https://github.com/panditakshay402/ecommerce.git)
+<!---- 🔭 I’m currently working on [ecommerce](https://github.com/panditakshay402/ecommerce.git) -->
 
-- 🌱 I’m currently learning **Dart .......**
+<!---- 🌱 I’m currently learning **Dart .......** -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/panditakshay402](https://github.com/panditakshay402)
+<!---- 👨‍💻 All of my projects are available at [https://github.com/panditakshay402](https://github.com/panditakshay402) -->
 
 - 💬 Ask me about **TechStack**
 
-- 📫 How to reach me **panditakshay4021@gmail.com**
+<!---- 📫 How to reach me **panditakshay4021@gmail.com** -->
 
-- ⚡ Fun fact **Not ,so Funny ^_~**
+<!--- ⚡ Fun fact **Not ,so Funny ^_~** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
