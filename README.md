@@ -15,7 +15,7 @@
 
 <!---- 👨‍💻 All of my projects are available at [https://github.com/panditakshay402](https://github.com/panditakshay402) -->
 
-- 💬 Ask me about **TechStack**
+<!---- 💬 Ask me about **TechStack** -->
 
 <!---- 📫 How to reach me **panditakshay4021@gmail.com** -->
 
