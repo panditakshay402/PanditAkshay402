@@ -10,13 +10,19 @@
   <img src="https://komarev.com/ghpvc/?username=panditakshay402&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-## 🏆 Trophies
+
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=panditakshay402&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://img.shields.io/badge/🔥%20Consistency-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Projects-Builder-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠%20DSA-Learner-orange?style=for-the-badge" />
 </p>
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=panditakshay402&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panditakshay402&theme=tokyonight" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -50,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panditakshay402&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panditakshay402&theme=tokyonight" />
 </p>
 
 ## 🔥 Streak Stats
@@ -65,6 +71,4 @@
   <img src="https://raw.githubusercontent.com/panditakshay402/panditakshay402/output/github-contribution-grid-snake.svg" />
 </p>
 
-## ⚡ Fun Fact
 
-> I don’t just write code, I try to understand how things work internally 🔍
