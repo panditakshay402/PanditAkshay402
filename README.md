@@ -67,8 +67,12 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/panditakshay402/panditakshay402/output/github-contribution-grid-snake.svg" />
 </p>
+## 🧊 3D Contributions -->
 
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
