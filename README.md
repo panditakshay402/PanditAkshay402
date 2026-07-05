@@ -33,7 +33,7 @@
 
 ## 📫 Reach me
 
-**Email:** panditakshay4021@gmail.com
+**Email:** Contact@PanditAkshay.com
 
 ## 🌐 Connect with me
 
