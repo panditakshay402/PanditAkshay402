@@ -32,14 +32,21 @@
 
 ## 👨‍💻 About Me
 
--  Currently improving **DSA + Development**
--  Learning **Advanced Backend & System Design**
--  Ask me about **.NET, Web Dev, Basics of DSA**
--  Goal: Become a **strong developer**
+- 💼 Application Developer @ IBM
+- 🚀 Building Full Stack & Automation Projects
+- 📚 Learning DSA, System Design & Cloud
+- 💬 Ask me about .NET, Java, Selenium & Appium
+- 🎯 Goal: Build impactful software that solves real-world problems
 
 ## 📫 Reach me
 
-**Email:** Contact@PanditAkshay.com
+<p align="left">
+
+<a href="mailto:Contact@PanditAkshay.com">
+<img src="https://img.shields.io/badge/Email-Contact%40PanditAkshay.com-blue?style=flat-square&logo=gmail"/>
+</a>
+
+</p>
 
 ## 🌐 Connect with me
 
@@ -55,7 +62,14 @@
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=panditakshay402&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,cpp,docker,firebase,gcp,js,linux,mysql,nodejs,php,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,js,react,nodejs,mongodb,mysql,git,github,docker,postman,vscode,idea,eclipse,androidstudio,linux,gcp&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge"/>
 </p>
 
 ##  GitHub Stats
