@@ -32,11 +32,11 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Application Developer @ IBM
-- 🚀 Building Full Stack & Automation Projects
-- 📚 Learning DSA, System Design & Cloud
-- 💬 Ask me about .NET, Java, Selenium & Appium
-- 🎯 Goal: Build impactful software that solves real-world problems
+-  Application Developer @ IBM
+-  Building Full Stack & Automation Projects
+-  Learning DSA, System Design & Cloud
+-  Ask me about .NET, Java, Selenium & Appium
+-  Goal: Build impactful software that solves real-world problems
 
 ## 📫 Reach me
 
