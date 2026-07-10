@@ -30,7 +30,7 @@
 
 
 
-## 👨‍💻 About Me
+##  About Me
 
 -  Application Developer @ IBM
 -  Building Full Stack & Automation Projects
@@ -38,7 +38,7 @@
 -  Ask me about .NET, Java, Selenium & Appium
 -  Goal: Build impactful software that solves real-world problems
 
-## 📫 Reach me
+##  Reach me
 
 <p align="left">
 
