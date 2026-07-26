@@ -1,6 +1,6 @@
-# Hi 👋, I'm Akshay Pandit
+# Hi 👋, I'm Akshay Pandit.
 
-###  Application Developer | Problems Solver | Tech Explorer
+###  Application Developer | Problems Solver | Tech Explorer!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Always+learning+new+things;Building+real+world+projects;Love+to+solve+problems&center=true&width=500&height=50">
