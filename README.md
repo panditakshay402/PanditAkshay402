@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akshay Pandit.
+# Hi 👋, I'm Akshay Pandit
 
 ###  Application Developer | Problems Solver | Tech Explorer
 
